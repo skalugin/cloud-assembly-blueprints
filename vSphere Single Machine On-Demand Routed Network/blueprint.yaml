@@ -1,3 +1,5 @@
+name: vSphere Single Machine Existing On-Demand Routed Network
+version: 1
 formatVersion: 1
 inputs: {}
 resources:
