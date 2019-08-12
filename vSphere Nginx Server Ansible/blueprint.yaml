@@ -1,4 +1,4 @@
-name: vSphere Ansible OSS Server
+name: vSphere Nginx Server Ansible
 version: 1
 formatVersion: 1
 inputs: {}

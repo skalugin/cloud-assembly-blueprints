@@ -1,4 +1,4 @@
-name: vSphere Ansible OSS Server
+name: vSphere Docker Host Ansible
 version: 1
 formatVersion: 1
 inputs: {}
